@@ -1,4 +1,4 @@
-# STSSE_1
+# Week 1 Lab: Welcome Hackers
 This project took roughly two hours to complete.
 
 Required stories 1-5 are complete. 
